@@ -1,8 +1,8 @@
 {
-  "Temperature": 60,
-  "WaterLevel": 30,
-  "PH": 7,
-  "Conductivity": 12,
+  "Temperature": 24,
+  "WaterLevel": 26,
+  "PH": 3.93,
+  "Conductivity": 14.68,
   "Temp Upper Limit Reached": 0,
   "Temp Lower Limit Reached": 0,
   "Water Level Limit Reached": 0,
