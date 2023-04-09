@@ -2,7 +2,7 @@
     {
         "Temperature": "-126",
         "WaterLevel": "22",
-        "pH": "",
+        "pH": "8.4",
         "Conductivity": "4.39",
         "Temp Upper Limit Reached": "0",
         "Temp Lower Limit Reached": "1",
