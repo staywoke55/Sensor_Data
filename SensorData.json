@@ -3,7 +3,7 @@
         "Temperature": "-126",
         "WaterLevel": "22",
         "pH": "",
-        "Conductivity": "7.60",
+        "Conductivity": "7.84",
         "Temp Upper Limit Reached": "0",
         "Temp Lower Limit Reached": "1",
         "Water Level Limit Reached": "0",
@@ -11,6 +11,6 @@
         "PH Lower Limit Reached": "0",
         "Con Upper Limit Reached": "0",
         "Con Lower Limit Reached": "1",
-        "Timestamp": "2023-04-09 12:56:03.710843"
+        "Timestamp": "2023-04-09 12:56:09.294171"
     }
 ]
